@@ -65,12 +65,6 @@ Python-based Flask is a microweb framework. Its status as a micro framework is a
 Using the following code, the model from the colab has been imported and incorporated into the flask project structure. The get-related-tweets method, which retrieves the pertinent tweets from Twitter in real time as twitter, returns the tweet data that is needed to execute the model in the home.py file.would come up if we type something into the twitter search bar. Before being transmitted to the model for prediction, this data is then preprocessed.
 The application's virtual environment has been given the name "Twitter" and all relevant packages have been installed. The folder hierarchy is displayed as follows. The github repository referred to at the beginning of the document contains the detailed code.
 
-Below Screenshots.
-![alt text](https://github.com/javeedsanganakal/CPME255-Bonus-2/blob/main/Bonus2_TwitterApp/SS1.png?raw=true)
-
-![alt text](https://github.com/javeedsanganakal/CPME255-Bonus-2/blob/main/Bonus2_TwitterApp/SS2.png?raw=true)
-
-![alt text](https://github.com/javeedsanganakal/CPME255-Bonus-2/blob/main/Bonus2_TwitterApp/SS3.png?raw=true)
 
 
 
