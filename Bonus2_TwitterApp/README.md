@@ -66,3 +66,6 @@ Using the following code, the model from the colab has been imported and incorpo
 The application's virtual environment has been given the name "Twitter" and all relevant packages have been installed. The folder hierarchy is displayed as follows. The github repository referred to at the beginning of the document contains the detailed code.
 
 Below Screenshots.
+https://github.com/javeedsanganakal/CPME255-Bonus-2/blob/main/Bonus2_TwitterApp/SS1.png
+https://github.com/javeedsanganakal/CPME255-Bonus-2/blob/main/Bonus2_TwitterApp/SS2.png
+https://github.com/javeedsanganakal/CPME255-Bonus-2/blob/main/Bonus2_TwitterApp/SS3.png
